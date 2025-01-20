@@ -1,3 +1,5 @@
+USE SistemaVentas;
+
 INSERT INTO Clientes (nombre, email, telefono) VALUES
 ('Juan Pérez', 'juanperez@mail.com', '123456789'),
 ('María Gómez', 'mariagomez@mail.com', '987654321');
