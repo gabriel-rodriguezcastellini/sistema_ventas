@@ -1,0 +1,1 @@
+mysqldump -u [username] -p[password] SistemaVentas > backup_sistema_ventas.sql
